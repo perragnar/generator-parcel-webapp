@@ -8,6 +8,13 @@
     "email": "perragnar@gmail.com",
     "url": "https://github.com/perragnar"
   },
+  "keywords": [
+    "yeoman-generator",
+    "parcel",
+    "javascript",
+    "scaffold",
+    "generator"
+  ],
   "main": "generators/app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
