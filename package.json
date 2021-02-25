@@ -1,0 +1,26 @@
+{
+  "name": "generator-parcel-webapp",
+  "displayName": "Parcel Web App",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Per Ragnar Edin",
+    "email": "perragnar@gmail.com",
+    "url": "https://github.com/perragnar"
+  },
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "glob": "^7.1.6",
+    "slug": "^4.0.3",
+    "yeoman-generator": "^4.12.0",
+    "yosay": "^2.0.2"
+  }
+}
