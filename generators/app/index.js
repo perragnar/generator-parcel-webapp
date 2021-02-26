@@ -12,7 +12,7 @@ module.exports = class extends Generator {
       yosay(`${chalk.red('Parcel Web App')} generator!`)
     );
 
-    // Initial promp
+    // Initial prompt
     const initPrompt = [
       {
         type: 'input',
@@ -82,9 +82,6 @@ module.exports = class extends Generator {
     if (this.props.options.includes('initGit')) {
       this.log(`${chalk.green('Initializing Git repository.')}`);
       this.spawnCommand('git', ['init']);
-    //   this.spawnCommand('git', ['add', '.']);
-    //   this.spawnCommand('git', ['commit', '-m', '"Initial commit"']);
-    //   this.spawnCommand('git', ['pull', 'git@github.com:perragnar/website-starterkit-parcel.git']);
     }
 
     // Start VSCode
