@@ -1,5 +1,7 @@
 # Change Log
 
+## [1.0.3] Cleanup and config change.
+
 ## [1.0.2] Minor change to template content.
 
 ## [1.0.1] Add changelog and bump version.
