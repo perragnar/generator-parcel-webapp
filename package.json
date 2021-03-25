@@ -1,7 +1,7 @@
 {
   "name": "generator-parcel-webapp",
   "displayName": "Parcel Web App",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yeoman generator for generating a Parcel web app",
   "author": {
     "name": "Per Ragnar Edin",
